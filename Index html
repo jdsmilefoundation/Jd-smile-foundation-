@@ -149,11 +149,6 @@
   <section id="form">
     <h2>Join Us</h2>
     <p>Want to be a part of our journey? Fill out the form below to volunteer or collaborate with us:</p>
-<section id="qrSection">
-    <h2>Donation QR Code</h2>
-    <div class="qr-code">
-      <img src="QRcode.png" alt="Donation QR Code">
-
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfltehCN-2okxGDPVck6QE9kYUj9lL5rC1gzj5V8S_zR2X5xQ/viewform?embedded=true">Loading…</iframe>
   </section>
 
